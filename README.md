@@ -1,3 +1,9 @@
+This is the backup of the last stable version of **Battery Charge Limit** that is known to work as intended on Android 13 and LineageOS 20.0 (unlike the [fork by MuntashirAkon](https://github.com/MuntashirAkon/BatteryChargeLimiter)). For whatever reason this version was unfortunately removed from [F-Droid](https://f-droid.org) altogether with a whole lot of other "outdated" apps and it is not available from [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) either.
+
+The [APK](https://github.com/Efenstor/BatteryChargeLimit/releases) in the releases is the backup I made from my own phone using [SAI](https://github.com/Aefyr/SAI).
+
+---
+
 # BatteryChargeLimit
 Source code of the android app that stops charging at a desired level.
 
